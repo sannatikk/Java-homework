@@ -15,4 +15,4 @@ OAMK Java basics course homework, originally submitted in GitHub Classroom. Each
 - Interfaces & abstract classes.
 
 ### Week 5: Streams and Exceptions
-- Reading files, using streams, using built-in and custom Exceptions.
+- Reading files, streams, records, using built-in and custom Exceptions.
