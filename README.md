@@ -1,6 +1,6 @@
 # java_homework
 
-OAMK Java basics course homework, originally submitted in GitHub Classroom. Each weekly folder contains its own readme file with specifics about the week's assignments!
+OAMK Java basics course homework, originally submitted in GitHub Classroom. Each weekly folder contains its own readme file with specifics about the week's assignments! All tests passed.
 
 ### Week 1: Java Basics
 - Methods, variables, loops, logic refreshers.
@@ -16,3 +16,6 @@ OAMK Java basics course homework, originally submitted in GitHub Classroom. Each
 
 ### Week 5: Streams and Exceptions
 - Reading files, streams, records, using built-in and custom Exceptions.
+
+### Week 6: Java Design Patterns
+- Singleton, Builder, and Factory Method Patterns, including interfaces and exception handling.
